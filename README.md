@@ -1,3 +1,13 @@
+# Ahmed Alshehri — AI Engineering Bootcamp Portfolio
+
+**Information Systems graduate · Data Science track · King Khalid University · AIEP 2026**
+
+[Personal portfolio overview](PORTFOLIO.md)
+
+This is my fork of Olo Academy's AI Engineering Bootcamp student repository. The original course instructions and materials below are preserved for attribution and reproducibility.
+
+---
+
 # AIEP — Olo Academy AI Engineering Bootcamp
 
 Labs, datasets, and the capstone brief for the 8-week AI Engineering Bootcamp.
